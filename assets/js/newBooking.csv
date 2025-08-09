@@ -1,0 +1,55 @@
+check_in_date,customer,hotel_name,status
+27/3/2025,john@abc.com,Shangri-La Singapore,completed
+30/3/2025,john@abc.com,Capella Singapore,completed
+1/4/2025,john@abc.com,W Singapore - Sentosa Cove,completed
+4/4/2025,john@abc.com,York Hotel Singapore,cancelled
+7/4/2025,john@abc.com,Studio M,cancelled
+15/4/2025,john@abc.com,Discovery Package,upcoming
+27/4/2025,john@abc.com,Shangri-La Singapore,upcoming
+5/5/2025,john@abc.com,W Singapore - Sentosa Cove,upcoming
+9/5/2025,john@abc.com,Discovery Package,upcoming
+25/3/2025,peter@cde.com,Shangri-La Singapore,completed
+28/3/2025,peter@cde.com,Capella Singapore,completed
+30/3/2025,peter@cde.com,W Singapore - Sentosa Cove,completed
+7/4/2025,peter@cde.com,York Hotel Singapore,cancelled
+16/4/2025,peter@cde.com,Studio M,upcoming
+20/4/2025,peter@cde.com,Discovery Package,upcoming
+25/4/2025,peter@cde.com,Shangri-La Singapore,upcoming
+28/4/2025,peter@cde.com,Capella Singapore,upcoming
+5/5/2025,peter@cde.com,York Hotel Singapore,upcoming
+10/5/2025,peter@cde.com,Studio M,upcoming
+14/5/2025,peter@cde.com,Discovery Package,upcoming
+17/3/2025,mary@ghi.com,Shangri-La Singapore,completed
+20/3/2025,mary@ghi.com,Capella Singapore,completed
+23/3/2025,mary@ghi.com,W Singapore - Sentosa Cove,completed
+30/3/2025,mary@ghi.com,York Hotel Singapore,completed
+6/4/2025,mary@ghi.com,Studio M,cancelled
+19/4/2025,mary@ghi.com,Discovery Package,upcoming
+27/4/2025,mary@ghi.com,Shangri-La Singapore,upcoming
+1/5/2025,mary@ghi.com,W Singapore - Sentosa Cove,upcoming
+4/5/2025,mary@ghi.com,York Hotel Singapore,upcoming
+7/5/2025,mary@ghi.com,Studio M,upcoming
+9/5/2025,mary@ghi.com,Discovery Package,upcoming
+13/3/2025,maggie@jkl.com,Shangri-La Singapore,completed
+17/3/2025,maggie@jkl.com,Capella Singapore,completed
+23/3/2025,maggie@jkl.com,W Singapore - Sentosa Cove,completed
+4/4/2025,maggie@jkl.com,York Hotel Singapore,cancelled
+6/4/2025,maggie@jkl.com,Studio M,cancelled
+8/4/2025,maggie@jkl.com,Discovery Package,cancelled
+20/4/2025,maggie@jkl.com,Capella Singapore,upcoming
+22/4/2025,maggie@jkl.com,W Singapore - Sentosa Cove,upcoming
+26/4/2025,maggie@jkl.com,York Hotel Singapore,upcoming
+28/4/2025,maggie@jkl.com,Studio M,upcoming
+9/5/2025,maggie@jkl.com,Discovery Package,upcoming
+7/3/2025,steve@mno.com,Shangri-La Singapore,completed
+10/3/2025,steve@mno.com,Capella Singapore,completed
+21/3/2025,steve@mno.com,W Singapore - Sentosa Cove,completed
+24/3/2025,steve@mno.com,York Hotel Singapore,completed
+27/3/2025,steve@mno.com,Studio M,completed
+7/4/2025,steve@mno.com,Discovery Package,cancelled
+9/4/2025,steve@mno.com,Shangri-La Singapore,cancelled
+10/4/2025,steve@mno.com,Capella Singapore,cancelled
+21/4/2025,steve@mno.com,W Singapore - Sentosa Cove,upcoming
+24/4/2025,steve@mno.com,York Hotel Singapore,upcoming
+27/4/2025,steve@mno.com,Studio M,upcoming
+2/5/2025,steve@mno.com,Discovery Package,upcoming
